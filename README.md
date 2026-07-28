@@ -120,5 +120,20 @@ SSR-optimized e-commerce platform with wishlist, multi-step checkout, and Razorp
 </tr>
 </table>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivaShankarReddy098&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShankarReddy098&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=ShivaShankarReddy098&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaShankarReddy098&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 <p align="center"><i>⭐️ From <a href="https://github.com/ShivaShankarReddy098">ShivaShankarReddy098</a></i></p>
