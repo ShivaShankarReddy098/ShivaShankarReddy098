@@ -360,5 +360,146 @@ Think → Design → Build → Test → Deploy → Scale
 
 </div>
 
+# 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivaShankarReddy098&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShankarReddy098&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=ShivaShankarReddy098&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShivaShankarReddy098&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaShankarReddy098&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Development Metrics
+
+<div align="center">
+
+| Metric | Description |
+|---------|-------------|
+| 🚀 Experience | Lead Full Stack Developer |
+| 💼 Professional Experience | Full Stack Development |
+| 🌐 Web Technologies | React, Next.js, Node.js |
+| 📱 Mobile | React Native, Flutter |
+| ☁ Cloud | AWS, Firebase |
+| 🛢 Database | MongoDB, MySQL, Redis |
+| 🔗 APIs | REST APIs, WebRTC, Socket.io |
+| 💳 Integrations | Razorpay, Stripe, Twilio, Authorize.Net |
+| 🤖 AI | Gemini API Integration |
+| 🛠 DevOps | Docker, CI/CD |
+
+</div>
+
+---
+
+# 💡 Core Expertise
+
+<div align="center">
+
+```text
+██████████████████████████████
+█ React.js               100%
+██████████████████████████████
+
+████████████████████████████
+█ Next.js                95%
+████████████████████████████
+
+███████████████████████████
+█ Node.js                95%
+███████████████████████████
+
+█████████████████████████
+█ MongoDB                90%
+█████████████████████████
+
+█████████████████████████
+█ React Native           90%
+█████████████████████████
+
+███████████████████████
+█ Flutter                85%
+███████████████████████
+
+█████████████████████████
+█ AWS                    90%
+█████████████████████████
+```
+
+</div>
+
+---
+
+# 🌟 Open Source Goals - 2026
+
+- 🚀 Contribute to major open-source projects
+- ⭐ Reach 500+ GitHub stars
+- 📦 Publish reusable npm packages
+- 🤖 Build AI-powered developer tools
+- 📱 Launch production React Native apps
+- 🌍 Help developers through open-source
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:shankarreddyshiva83@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/shiva-shankar-reddy-2639b4235">
+<img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ShivaShankarReddy098">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Quote of the Day
+
+> **"Great software isn't built by writing more code. It's built by solving the right problems."**
+
+⭐ If you like my work, consider following me and starring my repositories!
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4F46E5,25:2563EB,50:0EA5E9,75:06B6D4,100:14B8A6"/>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,50:0EA5E9,100:4F46E5"/>
